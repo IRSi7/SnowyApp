@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/nav_bar_home_selection"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_homework"
+        android:icon="@drawable/nav_bar_edu_selection"
+        android:title="@string/title_edu" />
+
+    <item
+        android:id="@+id/navigation_tasks"
+        android:icon="@drawable/nav_bar_tasks_selection"
+        android:title="@string/title_tasks" />
+
+    <item
+        android:id="@+id/navigation_play"
+        android:icon="@drawable/nav_bar_game_selection"
+        android:title="@string/title_play"
+        />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/nav_bar_settings_selection"
+        android:title="@string/title_settings"
+        />
+
+</menu>
