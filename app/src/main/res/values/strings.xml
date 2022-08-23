@@ -8,4 +8,6 @@
     <string name="title_edu">Homework</string>
     <string name="title_tasks">Tasks</string>
     <string name="title_homework">Homework</string>
+    <string name="tab_planned">Planned</string>
+    <string name="tab_done">Done</string>
 </resources>
